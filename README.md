@@ -5,20 +5,23 @@ Various configuration files for Linux, pulled from my local setup.
 
 ###X11 Themes
 
-This file includes an .Xresources example. .Xresources is used to control how X11 applications, such as terminals, appear and function on your Linux desktop.
-You may already have created an .Xresources file or not have one. If you don't have an .Xresources file, you can right-click the .Xresources link and **Save Link as** to your Downloads folder, then move the file to your home folder (**home/_user_**) with your file manager. Then follow steps 3 through 6 below to get the actual themes.
+This repository includes an .Xresources example. .Xresources is used to control how X11 applications, such as terminals, appear and function on the Linux desktop.
+You may already have created an .Xresources file or may not have one. If you don't have an .Xresources file, you can right-click the .Xresources link and **Save Link as** to your Downloads folder, then move the file to your home folder (**home/_user_**) with a file manager/command line. Then follow steps 3 through 7 below to get the actual themes.
 
-If you already have an existing .Xresources file, the method in this file will make X11 themes pluggable, whereas you can change X11 themes by commenting/uncommenting the include file for a theme. For convenience, I've placed themes in an **X11-themes** directory.
+If you already have an existing .Xresources file, the method in this file will make X11 settings pluggable, whereas you can change X11 themes by commenting/uncommenting the include file for a theme. For convenience, I've placed the themes in an **x11-themes** directory.
 
 1. Click .Xresources
 2. Highlight lines that begin with #include, **Copy**, **Paste** into your local .Xresources file
-3. Create **X11-themes** directory in your home directory (**home/_user_/x11-themes**)
-4. Right-click and save links in this repository's **x11-themes** directory
-5. Comment out the theme you want to use, one at a time
-6. If necessary, at the command line, type **xrdb ~/.Xresources** to save changes, then close and reopen an x11 program (xterm, for instance)
+3. Create an **x11-themes** directory in your home directory (**home/_user_/x11-themes**)
+4. Right-click and save the links from this repository's **x11-themes** directory
+5. Move the file from where it downloaded to (usually a Downloads folder) to your local x11-themes
+6. Comment out the theme you want to use, one at a time
+7. If necessary, at the command line, type **xrdb ~/.Xresources** to save changes, then close and reopen an x11 program (xterm, for instance)
 
 The themes included so far require **Bitstream Vera Sans Mono** and **DejaVu Sans Mono** fonts.
 
 ###Tint2 panel themes
 
 To use tint2 themes, simply go to this repository's **tint2** directory, right-click the theme (with a .tint2rc extension), **Save Link As..** to your local computer. Then, move (Cut and Paste) the file to your local tint2 directory, located at **home/_user_/.config/tint2**.
+
+With this being a new repository, I will add more themes/configuration files here in the future.
