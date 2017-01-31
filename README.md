@@ -23,8 +23,9 @@ The themes included so far require **Bitstream Vera Sans Mono** and **DejaVu San
 
 Once you have a folder for themes setup, you can include other color themes and place them in the folder, and add a new #include statement in your .Xresources file. An example follows below:
 
-```#include "x11-themes/jgd-classic"
-   !#include "another-directory/new-theme"
+```
+#include "x11-themes/jgd-classic"
+!#include "another-directory/new-theme"
 ```
 
 ###Tint2 panel themes
