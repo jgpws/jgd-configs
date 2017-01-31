@@ -1,0 +1,4 @@
+! Xresources file for configuration of X11 applications
+
+!#include "x11-themes/bastian-tango-urxvt"
+#include "x11-themes/jgd-classic"

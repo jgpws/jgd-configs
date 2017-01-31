@@ -1,0 +1,55 @@
+! special
+*.foreground:   #c0c0c0
+*.background:   #000000
+xterm*background: #101010
+*.cursorColor:  #c0c0c0
+
+urxvt*transparent: true
+urxvt*shading: 30
+urxvt.letterSpace: -1
+urxvt.scrollstyle: plain
+
+! black
+*.color0:       #202020
+*.color8:       #404040
+
+! red
+*.color1:       #802020
+*.color9:       #c04040
+
+! green
+*.color2:       #808020
+*.color10:      #c0c040
+
+! yellow
+*.color3:       #804020
+*.color11:      #c06040
+
+! blue
+*.color4:       #202080
+*.color12:      #4040c0
+
+! magenta
+*.color5:       #402080
+*.color13:      #6040c0
+
+! cyan
+*.color6:       #208080
+*.color14:      #40c0c0
+
+! white
+*.color7:       #808080
+*.color15:      #c0c0c0
+
+*font: xft:dejavu sans mono:size=10:antialias=true
+xterm*faceName: DejaVu Sans Mono
+xterm*faceSize: 10
+xterm*vt100*geometry: 80x60
+
+! for XClock
+XClock*foreground: 	#c0c0c0
+XClock.Clock.majorColor:	#ffffff
+XClock.Clock.minorColor:	#c0c0c0
+XClock.Clock.hourColor:		#808080
+XClock.Clock.minuteColor:	#4040c0
+XClock.Clock.secondColor:	#40c0c0

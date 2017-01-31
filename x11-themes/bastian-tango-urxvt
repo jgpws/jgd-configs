@@ -1,0 +1,42 @@
+! Colors/Transparency
+
+! urxvt
+urxvt*dynamicColors: on
+! http://bastian.rieck.ru/blog/posts/2013/making_urxvt_beautiful/
+urxvt*foreground: white
+urxvt*background: black
+
+urxvt.color0: #2e3436
+urxvt.color1: #a40000
+urxvt.color3: #c4a000
+urxvt.color4: #3465a4
+urxvt.color5: #77507b
+urxvt.color6: #ce5c00
+urxvt.color7: #babdb9
+urxvt.color8: #555753
+urxvt.color9: #ef2929
+urxvt.color10: #8ae234
+urxvt.color11: #fce94f
+urxvt.color12: #729fcf
+urxvt.color13: #ad7fa8
+urxvt.color14: #fcaf3e
+urxvt.color15: #eeeeec
+
+urxvt*transparent: true
+urxvt*shading: 30
+
+! Fonts
+
+! urxvt
+urxvt.font: xft:bitstream vera sans mono:size=12:antialias=true
+urxvt.boldFont: xft:bitstream vera sans mono:bold:size=12:antialias=true
+urxvt.letterSpace: -1
+
+! Other
+
+! urxvt
+! http://510x.se/notes/posts/Configuring_and_using_rxvt-unicode/
+urxvt.scrollstyle: plain
+urxvt.perl-ext-common: default,matcher,tabbed
+urxvt.urlLauncher: firefox
+urxvt.matcher.button: 1
