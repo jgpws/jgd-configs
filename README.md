@@ -16,3 +16,9 @@ If you already have an existing .Xresources file, the method in this file will m
 4. Right-click and save links in this repository's **x11-themes** directory
 5. Comment out the theme you want to use, one at a time
 6. If necessary, at the command line, type **xrdb ~/.Xresources** to save changes, then close and reopen an x11 program (xterm, for instance)
+
+The themes included so far require **Bitstream Vera Sans Mono** and **DejaVu Sans Mono** fonts.
+
+###Tint2 panel themes
+
+To use tint2 themes, simply go to this repository's **tint2** directory, right-click the theme (with a .tint2rc extension), **Save Link As..** to your local computer. Then, move (Cut and Paste) the file to your local tint2 directory, located at **home/_user_/.config/tint2**.
