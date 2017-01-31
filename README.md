@@ -15,3 +15,4 @@ If you already have an existing .Xresources file, the method in this file will m
 3. Create **X11-themes** directory in your home directory (**home/_user_/x11-themes**)
 4. Right-click and save links in this repository's **x11-themes** directory
 5. Comment out the theme you want to use, one at a time
+6. If necessary, at the command line, type **xrdb ~/.Xresources** to save changes, then close and reopen an x11 program (xterm, for instance)
