@@ -53,3 +53,108 @@ XClock.Clock.minorColor:	#c0c0c0
 XClock.Clock.hourColor:		#808080
 XClock.Clock.minuteColor:	#4040c0
 XClock.Clock.secondColor:	#40c0c0
+
+! for XCalc
+! Over all background
+XCalc.ti.Command.background: 				#000000
+
+! Display
+XCalc.ti.bevel.background: 				#404040
+XCalc.ti.bevel.screen.background: 		#fafafa
+XCalc.ti.bevel.screen.DEG.background: 	#ffffff
+XCalc.ti.bevel.screen.DEG.foreground: 	#208080
+XCalc.ti.bevel.screen.GRAD.background:	#fafafa
+XCalc.ti.bevel.screen.GRAD.foreground:	#208080
+XCalc.ti.bevel.screen.RAD.background:	#fafafa
+XCalc.ti.bevel.screen.RAD.foreground:	#208080
+XCalc.ti.bevel.screen.LCD.background:	#fafafa
+XCalc.ti.bevel.screen.LCD.foreground:	#000000
+
+! Buttons
+XCalc.ti.button1.background:	#202020
+XCalc.ti.button1.foreground:	#c0c0c0
+XCalc.ti.button2.background:	#202020
+XCalc.ti.button2.foreground:	#c0c0c0
+XCalc.ti.button3.background:	#202020
+XCalc.ti.button3.foreground:	#c0c0c0
+
+XCalc.ti.button4.background:	#c04040
+XCalc.ti.button4.foreground:	#ffffff
+XCalc.ti.button5.background:	#c04040
+XCalc.ti.button5.foreground:	#ffffff
+XCalc.ti.button6.background:	#202080
+XCalc.ti.button6.foreground:	#fafafa
+XCalc.ti.button7.background:	#202080
+XCalc.ti.button7.foreground:	#fafafa
+XCalc.ti.button8.background:	#202080
+XCalc.ti.button8.foreground:	#fafafa
+XCalc.ti.button9.background:	#202080
+XCalc.ti.button9.foreground:	#fafafa
+XCalc.ti.button10.background:	#202080
+XCalc.ti.button10.foreground:	#fafafa
+XCalc.ti.button11.background:	#208080
+XCalc.ti.button11.foreground:	#fafafa
+XCalc.ti.button12.background:	#208080
+XCalc.ti.button12.foreground:	#fafafa
+XCalc.ti.button13.background:	#208080
+XCalc.ti.button13.foreground:	#fafafa
+XCalc.ti.button14.background:	#208080
+XCalc.ti.button14.foreground:	#fafafa
+XCalc.ti.button15.background:	#208080
+XCalc.ti.button15.foreground:	#fafafa
+XCalc.ti.button16.background:	#808020
+XCalc.ti.button16.foreground:	#fafafa
+XCalc.ti.button17.background:	#808020
+XCalc.ti.button17.foreground:	#fafafa
+XCalc.ti.button18.background:	#808020
+XCalc.ti.button18.foreground:	#fafafa
+XCalc.ti.button19.background:	#808020
+XCalc.ti.button19.foreground:	#fafafa
+
+XCalc.ti.button21.background:	#202020
+XCalc.ti.button21.foreground: #c0c0c0
+XCalc.ti.button26.background:	#202020
+XCalc.ti.button26.foreground: #c0c0c0
+XCalc.ti.button31.background:	#202020
+XCalc.ti.button31.foreground: #c0c0c0
+XCalc.ti.button36.background:	#202020
+XCalc.ti.button36.foreground: #c0c0c0
+
+! Number buttons
+XCalc.ti.button22.background:	#808080
+XCalc.ti.button22.foreground:	#000000
+XCalc.ti.button23.background:	#808080
+XCalc.ti.button23.foreground:	#000000
+XCalc.ti.button24.background:	#808080
+XCalc.ti.button24.foreground:	#000000
+XCalc.ti.button27.background:	#808080
+XCalc.ti.button27.foreground:	#000000
+XCalc.ti.button28.background:	#808080
+XCalc.ti.button28.foreground:	#000000
+XCalc.ti.button29.background:	#808080
+XCalc.ti.button29.foreground:	#000000
+XCalc.ti.button32.background:	#808080
+XCalc.ti.button32.foreground:	#000000
+XCalc.ti.button33.background:	#808080
+XCalc.ti.button33.foreground:	#000000
+XCalc.ti.button34.background:	#808080
+XCalc.ti.button34.foreground:	#000000
+XCalc.ti.button37.background:	#808080
+XCalc.ti.button37.foreground:	#000000
+XCalc.ti.button38.background:	#808080
+XCalc.ti.button38.foreground:	#000000
+XCalc.ti.button39.background:	#808080
+XCalc.ti.button39.foreground:	#000000
+
+! Multiplication, Division, etc. buttons
+XCalc.ti.button20.label:		/
+XCalc.ti.button20.background:	#c0c0c0
+XCalc.ti.button20.foreground:	#404040
+XCalc.ti.button25.background:	#c0c0c0
+XCalc.ti.button25.foreground:	#404040
+XCalc.ti.button30.background:	#c0c0c0
+XCalc.ti.button30.foreground:	#404040
+XCalc.ti.button35.background:	#c0c0c0
+XCalc.ti.button35.foreground:	#404040
+XCalc.ti.button40.background:	#c0c0c0
+XCalc.ti.button40.foreground:	#404040
