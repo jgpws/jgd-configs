@@ -4,11 +4,6 @@
 xterm*background: #101010
 *.cursorColor:  #c0c0c0
 
-urxvt*transparent: true
-urxvt*shading: 30
-urxvt.letterSpace: -1
-urxvt.scrollstyle: plain
-
 ! black
 *.color0:       #202020
 *.color8:       #404040
@@ -45,6 +40,19 @@ urxvt.scrollstyle: plain
 xterm*faceName: DejaVu Sans Mono
 xterm*faceSize: 10
 xterm*vt100*geometry: 80x60
+
+! for URxvt
+urxvt*transparent: true
+urxvt*shading: 20
+urxvt.letterSpace: -1
+urxvt.scrollstyle: plain
+
+urxvt.color4:   #4040c0
+urxvt.color12:  #5e5ece
+
+URxvt.perl-ext-common: default,matcher,tabbed
+URxvt.urlLauncher: firefox
+URxvt.matcher.button: 1
 
 ! for XClock
 XClock*foreground: 	#c0c0c0
