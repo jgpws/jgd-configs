@@ -1,9 +1,9 @@
 # jgd-configs
 Various configuration files for Linux, pulled from my local desktop setup.
 
-##How to Use:
+## How to Use:
 
-###X11 Themes
+### X11 Themes
 
 This repository includes an .Xresources example. An .Xresources file is used for controlling how X11 applications, such as terminals, appear and function on the Linux desktop.
 
@@ -28,7 +28,7 @@ Once you have a folder for themes setup, you can include other color themes and 
 !#include "another-directory/new-theme"
 ```
 
-###Tint2 panel themes
+### Tint2 panel themes
 
 To use tint2 themes, simply go to this repository's **tint2** directory, right-click the theme (with a .tint2rc extension), **Save Link As..** to your local computer. Then, move (Cut and Paste) the file to your local tint2 directory, located at **home/_user_/.config/tint2**.
 
