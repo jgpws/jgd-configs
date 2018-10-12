@@ -1,0 +1,163 @@
+*font: xft:dejavu sans mono:size=10:antialias=true
+xterm*faceName: DejaVu Sans Mono
+xterm*faceSize: 10
+xterm*vt100*geometry: 80x30
+
+! Colors
+*background:  #fff2be
+*foreground:  #333333
+*color0:  #161200
+*color1:  #9c0012
+*color2:  #1d8900
+*color3:  #a38300
+*color4:  #1f0e71
+*color5:  #41076d
+*color6:  #006756
+*color7:  #fffdf3
+*color8:  #161200
+*color9:  #9c0012
+*color10:  #1d8900
+*color11:  #a38300
+*color12:  #1f0e71
+*color13:  #41076d
+*color14:  #006756
+*color15:  #fffdf3
+
+! for URxvt
+URxvt.tabbed.tabbar-bg:		3
+URxvt.tabbed.tabbar-fg:		0
+URxvt.tabbed.tab-bg:			-1
+URxvt.tabbed.tab-fg:			0
+
+urxvt.letterSpace: -1
+urxvt.scrollstyle: plain
+
+URxvt.perl-ext-common: default,matcher,tabbed
+URxvt.urlLauncher: firefox
+URxvt.matcher.button: 1
+
+! for XClock
+XClock.Clock.hourColor:		#544400
+XClock.Clock.minuteColor:	#a38300
+XClock.Clock.secondColor:	#cfa600
+XClock.Clock.majorColor:	#a38300
+XClock.Clock.minorColor:	#cfa600
+
+! for XCalc
+! Display
+XCalc.ti.bevel.background: 				#cfa600
+XCalc.ti.bevel.borderColor:				#a38300
+XCalc.ti.bevel.screen.background: 		#fffdf3
+XCalc.ti.bevel.screen.borderColor:		#fff2be
+XCalc.ti.bevel.screen.DEG.background:	#fffdf3
+XCalc.ti.bevel.screen.DEG.foreground:	#a38300
+XCalc.ti.bevel.screen.LCD.background:	#fffdf3
+XCalc.ti.bevel.screen.LCD.foreground:	#161200
+
+! Buttons
+XCalc.ti.button1.background:		#a38300
+XCalc.ti.button1.foreground:		#fff2be
+XCalc.ti.button1.borderColor:		#544400
+XCalc.ti.button2.background:		#a38300
+XCalc.ti.button2.foreground:		#fff2be
+XCalc.ti.button2.borderColor:		#544400
+XCalc.ti.button3.background:		#a38300
+XCalc.ti.button3.foreground:		#fff2be
+XCalc.ti.button3.borderColor:		#544400
+
+XCalc.ti.button4.background:		#fffdf3
+XCalc.ti.button4.borderColor:		#544400
+XCalc.ti.button5.background:		#fffdf3
+XCalc.ti.button5.borderColor:		#544400
+
+XCalc.ti.button6.background:		#c4a112
+XCalc.ti.button6.borderColor:		#544400
+XCalc.ti.button7.background:		#c4a112
+XCalc.ti.button7.borderColor:		#544400
+XCalc.ti.button8.background:		#c4a112
+XCalc.ti.button8.borderColor:		#544400
+XCalc.ti.button9.background:		#c4a112
+XCalc.ti.button9.borderColor:		#544400
+XCalc.ti.button10.background:		#c4a112
+XCalc.ti.button10.borderColor:	#544400
+
+XCalc.ti.button11.background:		#e2c038
+XCalc.ti.button11.borderColor:	#544400
+XCalc.ti.button12.background:		#e2c038
+XCalc.ti.button12.borderColor:	#544400
+XCalc.ti.button13.background:		#e2c038
+XCalc.ti.button13.borderColor:	#544400
+XCalc.ti.button14.background:		#e2c038
+XCalc.ti.button14.borderColor:	#544400
+XCalc.ti.button15.background:		#e2c038
+XCalc.ti.button15.borderColor:	#544400
+
+XCalc.ti.button16.background:		#f9db5f
+XCalc.ti.button16.borderColor:	#544400
+XCalc.ti.button17.background:		#f9db5f
+XCalc.ti.button17.borderColor:	#544400
+XCalc.ti.button18.background:		#f9db5f
+XCalc.ti.button18.borderColor:	#544400
+XCalc.ti.button19.background:		#f9db5f
+XCalc.ti.button19.borderColor:	#544400
+
+XCalc.ti.button20.label:			/
+XCalc.ti.button20.background:		#e3e1eb
+XCalc.ti.button20.borderColor:	#544400
+
+XCalc.ti.button21.background:		#a38300
+XCalc.ti.button21.foreground:		#fff2be
+XCalc.ti.button21.borderColor:	#544400
+
+XCalc.ti.button22.background:		#fff8dc
+XCalc.ti.button22.borderColor:	#544400
+XCalc.ti.button23.background:		#fff8dc
+XCalc.ti.button23.borderColor:	#544400
+XCalc.ti.button24.background:		#fff8dc
+XCalc.ti.button24.borderColor:	#544400
+
+XCalc.ti.button25.background:		#e3e1eb
+XCalc.ti.button25.borderColor:	#544400
+
+XCalc.ti.button26.background:		#a38300
+XCalc.ti.button26.foreground:		#fff2be
+XCalc.ti.button26.borderColor:	#544400
+
+XCalc.ti.button27.background:		#fff8dc
+XCalc.ti.button27.borderColor:	#544400
+XCalc.ti.button28.background:		#fff8dc
+XCalc.ti.button28.borderColor:	#544400
+XCalc.ti.button29.background:		#fff8dc
+XCalc.ti.button29.borderColor:	#544400
+
+XCalc.ti.button30.background:		#e3e1eb
+XCalc.ti.button30.borderColor:	#544400
+
+XCalc.ti.button31.background:		#a38300
+XCalc.ti.button31.foreground:		#fff2be
+XCalc.ti.button31.borderColor:	#544400
+
+XCalc.ti.button32.background:		#fff8dc
+XCalc.ti.button32.borderColor:	#544400
+XCalc.ti.button33.background:		#fff8dc
+XCalc.ti.button33.borderColor:	#544400
+XCalc.ti.button34.background:		#fff8dc
+XCalc.ti.button34.borderColor:	#544400
+
+XCalc.ti.button35.background:		#e3e1eb
+XCalc.ti.button35.borderColor:	#544400
+
+XCalc.ti.button36.background:		#a38300
+XCalc.ti.button36.foreground:		#fff2be
+XCalc.ti.button36.borderColor:	#544400
+
+XCalc.ti.button37.background:		#fff8dc
+XCalc.ti.button37.borderColor:	#544400
+XCalc.ti.button38.background:		#fff8dc
+XCalc.ti.button38.borderColor:	#544400
+XCalc.ti.button39.background:		#fff8dc
+XCalc.ti.button39.borderColor:	#544400
+
+XCalc.ti.button40.background:		#544400
+XCalc.ti.button40.foreground:		#fffdf3
+XCalc.ti.button40.borderColor:	#544400
