@@ -1,0 +1,154 @@
+*font: xft:dejavu sans mono:size=10:antialias=true
+xterm*faceName: DejaVu Sans Mono
+xterm*faceSize: 10
+xterm*vt100*geometry: 80x30
+
+*background:  #000000
+*foreground:  #c0c0c0
+*color0:  #333333
+*color1:  #d93649
+*color2:  #4dbe2f
+*color3:  #e2c038
+*color4:  #47359c
+*color5:  #692d98
+*color6:  #238f7d
+*color7:  #c0c0c0
+*color8:  #333333
+*color9:  #d93649
+*color10:  #4dbe2f
+*color11:  #e2c038
+*color12:  #47359c
+*color13:  #692d98
+*color14:  #238f7d
+*color15:  #c0c0c0
+
+! for URxvt
+URxvt*depth: 32
+URxvt*background: [90]#000000
+
+URxvt.tabbed.tabbar-bg:		3
+URxvt.tabbed.tabbar-fg:		0
+URxvt.tabbed.tab-bg:			-1
+URxvt.tabbed.tab-fg:			3
+
+urxvt.letterSpace: -1
+urxvt.scrollstyle: plain
+
+URxvt.perl-ext-common: default,matcher,tabbed
+URxvt.urlLauncher: firefox
+URxvt.matcher.button: 1
+
+! for XClock
+XClock.Clock.hourColor:		#a38300
+XClock.Clock.minuteColor:	#cfa600
+XClock.Clock.secondColor:	#544400
+XClock.Clock.majorColor:	#a38300
+XClock.Clock.minorColor:	#cfa600
+
+! for XCalc
+! Display
+XCalc.ti.background:							#161200
+XCalc.ti.bevel.background:					#544400
+XCalc.ti.bevel.screen.DEG.foreground:	#e2c038
+XCalc.ti.bevel.screen.RAD.foreground:	#e2c038
+XCalc.ti.bevel.screen.GRAD.foreground:	#e2c038
+
+! Buttons
+XCalc.ti.button1.background:	#544400
+XCalc.ti.button1.foreground:	#fff2be
+XCalc.ti.button2.background:	#544400
+XCalc.ti.button2.foreground:	#fff2be
+XCalc.ti.button3.background:	#544400
+XCalc.ti.button3.foreground:	#fff2be
+
+XCalc.ti.button4.background:	#c0c0c0
+XCalc.ti.button4.foreground:	#333333
+XCalc.ti.button5.background:	#c0c0c0
+XCalc.ti.button5.foreground:	#333333
+
+XCalc.ti.button6.background:	#7b6713
+XCalc.ti.button6.foreground:	#fff2be
+XCalc.ti.button7.background:	#7b6713
+XCalc.ti.button7.foreground:	#fff2be
+XCalc.ti.button8.background:	#7b6713
+XCalc.ti.button8.foreground:	#fff2be
+XCalc.ti.button9.background:	#7b6713
+XCalc.ti.button9.foreground:	#fff2be
+XCalc.ti.button10.background:	#7b6713
+XCalc.ti.button10.foreground:	#fff2be
+
+XCalc.ti.button11.background:	#a99338
+XCalc.ti.button11.foreground:	#333333
+XCalc.ti.button12.background:	#a99338
+XCalc.ti.button12.foreground:	#333333
+XCalc.ti.button13.background:	#a99338
+XCalc.ti.button13.foreground:	#333333
+XCalc.ti.button14.background:	#a99338
+XCalc.ti.button14.foreground:	#333333
+XCalc.ti.button15.background:	#a99338
+XCalc.ti.button15.foreground:	#333333
+
+XCalc.ti.button16.background:	#d3bf69
+XCalc.ti.button16.foreground:	#333333
+XCalc.ti.button17.background:	#d3bf69
+XCalc.ti.button17.foreground:	#333333
+XCalc.ti.button18.background:	#d3bf69
+XCalc.ti.button18.foreground:	#333333
+XCalc.ti.button19.background:	#d3bf69
+XCalc.ti.button19.foreground:	#333333
+
+XCalc.ti.button20.label:		/
+XCalc.ti.button20.background:	#191233
+XCalc.ti.button20.foreground:	#c0c0c0
+
+XCalc.ti.button21.background:	#544400
+XCalc.ti.button21.foreground:	#fff2be
+
+XCalc.ti.button22.background:	#c0c0c0
+XCalc.ti.button22.foreground:	#333333
+XCalc.ti.button23.background:	#c0c0c0
+XCalc.ti.button23.foreground:	#333333
+XCalc.ti.button24.background:	#c0c0c0
+XCalc.ti.button24.foreground:	#333333
+
+XCalc.ti.button25.background:	#191233
+XCalc.ti.button25.foreground:	#c0c0c0
+
+XCalc.ti.button26.background:	#544400
+XCalc.ti.button26.foreground:	#fff2be
+
+XCalc.ti.button27.background:	#c0c0c0
+XCalc.ti.button27.foreground:	#333333
+XCalc.ti.button28.background:	#c0c0c0
+XCalc.ti.button28.foreground:	#333333
+XCalc.ti.button29.background:	#c0c0c0
+XCalc.ti.button29.foreground:	#333333
+
+XCalc.ti.button30.background:	#191233
+XCalc.ti.button30.foreground:	#c0c0c0
+
+XCalc.ti.button31.background:	#544400
+XCalc.ti.button31.foreground:	#fff2be
+
+XCalc.ti.button32.background:	#c0c0c0
+XCalc.ti.button32.foreground:	#333333
+XCalc.ti.button33.background:	#c0c0c0
+XCalc.ti.button33.foreground:	#333333
+XCalc.ti.button34.background:	#c0c0c0
+XCalc.ti.button34.foreground:	#333333
+
+XCalc.ti.button35.background:	#191233
+XCalc.ti.button35.foreground:	#c0c0c0
+
+XCalc.ti.button36.background:	#544400
+XCalc.ti.button36.foreground:	#fff2be
+
+XCalc.ti.button37.background:	#c0c0c0
+XCalc.ti.button37.foreground:	#333333
+XCalc.ti.button38.background:	#c0c0c0
+XCalc.ti.button38.foreground:	#333333
+XCalc.ti.button39.background:	#c0c0c0
+XCalc.ti.button39.foreground:	#333333
+
+XCalc.ti.button40.background: #fffdf3
+XCalc.ti.button40.foreground: #161200
