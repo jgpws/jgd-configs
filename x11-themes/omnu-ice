@@ -1,0 +1,30 @@
+*background:  #1e1f20
+*foreground:  #f0f8ff
+*color0:  #404040
+*color1:  #b4a8ab
+*color2:  #a6ada2
+*color3:  #c5c4b8
+*color4:  #97999c
+*color5:  #a09da2
+*color6:  #9ba19f
+*color7:  #d0d0d0
+*color8:  #a0a0a0
+*color9:  #b4a8ab
+*color10:  #a6ada2
+*color11:  #c5c4b8
+*color12:  #97999c
+*color13:  #a09da2
+*color14:  #9ba19f
+*color15:  #d0d0d0
+
+*font: xft:source code pro:size=10:antialias=true
+
+! for xterm
+xterm*faceSize: 10
+xterm*vt100*geometry: 80x60
+
+! for URxvt
+urxvt*transparent: true
+urxvt*shading: 20
+urxvt.letterSpace: -1
+urxvt.scrollstyle: plain
