@@ -1,21 +1,21 @@
-*background:  #1e1f20
-*foreground:  #f0f8ff
+*background:  #abadb0
+*foreground:  #1e1f20
 *color0:  #404040
-*color1:  #b4a8ab
-*color2:  #a6ada2
-*color3:  #c5c4b8
-*color4:  #97999c
-*color5:  #a09da2
-*color6:  #9ba19f
-*color7:  #d0d0d0
-*color8:  #a0a0a0
-*color9:  #b4a8ab
-*color10:  #a6ada2
-*color11:  #c5c4b8
-*color12:  #97999c
-*color13:  #a09da2
-*color14:  #9ba19f
-*color15:  #d0d0d0
+*color1:  #7a283b
+*color2:  #437426
+*color3:  #857f2c
+*color4:  #213b57
+*color5:  #3d225a
+*color6:  #1d5945
+*color7:  #ffffff
+*color8:  #404040
+*color9:  #7a283b
+*color10:  #437426
+*color11:  #857f2c
+*color12:  #213b57
+*color13:  #3d225a
+*color14:  #1d5945
+*color15:  #ffffff
 
 *font: xft:source code pro:size=10:antialias=true
 
@@ -25,6 +25,6 @@ xterm*vt100*geometry: 80x60
 
 ! for URxvt
 urxvt*transparent: true
-urxvt*shading: 20
+urxvt*shading: 180
 urxvt.letterSpace: -1
 urxvt.scrollstyle: plain
