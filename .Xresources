@@ -1,5 +1,16 @@
 ! Xresources file for configuration of X11 applications
 
+! Globals for all apps
+Xft.antialias: 1
+Xft.dpi: 96
+Xft.hinting: 1
+Xft.autohint: 1
+Xft.rgba: rgb
+Xft.hintstyle: hintfull
+
 !#include "x11-themes/bastian-tango-urxvt"
 !#include "x11-themes/jgd-classic"
 !#include "x11-themes/jgd-gold"
+!#include "x11-themes/jgd-gold-dark"
+!#include "x11-themes/omnu-ice"
+!#include "x11-themes/omnu-ice-dark"
