@@ -20,7 +20,7 @@ If you already have an existing .Xresources file, the method from this file will
 7. Comment out the theme you want to use, one at a time (Remove !)
 8. If necessary, at the command line, type **xrdb ~/.Xresources** to save changes, then close and reopen an x11 program (xterm, for instance)
 
-The themes included so far require **Bitstream Vera Sans Mono** and **DejaVu Sans Mono** fonts.
+The themes included so far use **Bitstream Vera Sans Mono**, **DejaVu Sans Mono** and **Source Code Pro** fonts.
 
 Once you have a folder for themes setup, you can include other color themes and place them in the folder, and add a new #include statement in your .Xresources file. An example follows below:
 
