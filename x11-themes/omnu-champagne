@@ -1,0 +1,55 @@
+! Base16 oomox-OmNu-Champagne
+! Scheme: oomox-OmNu-Champagne
+
+#define base00 #1f1b15
+#define base01 #362f25
+#define base02 #4e4435
+#define base03 #655845
+#define base04 #7d6c54
+#define base05 #fff5e7
+#define base06 #ffe5c0
+#define base07 #ffd499
+#define base08 #bd5f7a
+#define base09 #d2b96a
+#define base0A #d2b96a
+#define base0B #86ba5e
+#define base0C #488f72
+#define base0D #496b88
+#define base0E #565593
+#define base0F #b3785e
+
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base09
+*color10:      base01
+*color11:      base02
+*color12:      base04
+*color13:      base06
+*color14:      base0F
+*color15:      base07
+
+! Fonts
+*font: xft:source code pro:size=10:antialias=true
+
+! URxvt
+URxvt*inheritPixmap: true
+URxvt*transparent: true
+URxvt*shading: 10
+urxvt.letterSpace: -1
+urxvt.scrollstyle: plain
